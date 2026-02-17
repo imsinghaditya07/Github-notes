@@ -38,3 +38,7 @@ git diff --staged: Show changes between the index and your last commit.
 ## 9. Visual Log
 git log --oneline --graph --all: Show a graphical representation of the commit history.
 
+
+## 10. Delete Branch
+git branch -d <branch>: Deletes the specified branch. Use -D simply to force delete.
+
