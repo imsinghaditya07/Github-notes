@@ -14,9 +14,13 @@
 1.  [📍 Git Basics](./cheatsheets/git-basics.md) - Essential commands to get started.
 2.  [🌿 Branching & Merging](./cheatsheets/branching-merging.md) - Master the art of features and fixes.
 3.  [🤝 Collaboration & GitHub](./cheatsheets/collaboration-github.md) - Remote repos, PRs, and Forks.
-4.  [🛠️ Advanced & Troubleshooting](./cheatsheets/advanced-troubleshooting.md) - Fixing mistakes and power tools.
-5.  [🧠 Theoretical Notes](./notes/understanding-the-workflow.md) - Understanding the *why* behind the *what*.
-6.  [✨ Best Practices](./notes/best-practices.md) - Industry standards for professional devs.
+4.  [⚡ Git Aliases](./cheatsheets/git-aliases.md) - Shortcuts for high productivity.
+5.  [🛠️ Advanced & Troubleshooting](./cheatsheets/advanced-troubleshooting.md) - Fixing mistakes and power tools.
+6.  [🧠 Theoretical Notes](./notes/understanding-the-workflow.md) - Understanding the *why* behind the *what*.
+7.  [📖 Glossary](./notes/glossary.md) - Git terminology explained.
+8.  [✨ Best Practices](./notes/best-practices.md) - Industry standards for professional devs.
+9.  [🌐 Open Source Contribution](./notes/open-source-contribution.md) - How to contribute to other projects.
+10. [🎯 Practice Scenarios](./exercises/practice-scenarios.md) - Hands-on training.
 
 ---
 
