@@ -10,3 +10,7 @@ git clean -fd: Removes untracked files and directories.
 ## 2. Switch to Previous Branch
 git checkout -: Quickly switch back to the previous branch you were on.
 
+
+## 3. Modify Last Commit
+git commit --amend: Add staged changes to the previous commit or edit its message.
+
