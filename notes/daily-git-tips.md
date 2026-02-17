@@ -34,3 +34,7 @@ git reset --soft HEAD~1: Undoes the last commit but keeps changes staged.
 ## 8. View Staged Changes
 git diff --staged: Show changes between the index and your last commit.
 
+
+## 9. Visual Log
+git log --oneline --graph --all: Show a graphical representation of the commit history.
+
