@@ -11,16 +11,26 @@
 
 ## 📂 Table of Contents
 
-1.  [📍 Git Basics](./cheatsheets/git-basics.md) - Essential commands to get started.
-2.  [🌿 Branching & Merging](./cheatsheets/branching-merging.md) - Master the art of features and fixes.
-3.  [🤝 Collaboration & GitHub](./cheatsheets/collaboration-github.md) - Remote repos, PRs, and Forks.
-4.  [⚡ Git Aliases](./cheatsheets/git-aliases.md) - Shortcuts for high productivity.
-5.  [🛠️ Advanced & Troubleshooting](./cheatsheets/advanced-troubleshooting.md) - Fixing mistakes and power tools.
-6.  [🧠 Theoretical Notes](./notes/understanding-the-workflow.md) - Understanding the *why* behind the *what*.
-7.  [📖 Glossary](./notes/glossary.md) - Git terminology explained.
-8.  [✨ Best Practices](./notes/best-practices.md) - Industry standards for professional devs.
-9.  [🌐 Open Source Contribution](./notes/open-source-contribution.md) - How to contribute to other projects.
-10. [🎯 Practice Scenarios](./exercises/practice-scenarios.md) - Hands-on training.
+### 🟢 Level 1: Beginner (The Foundation)
+Essential resources for those just starting their Git journey.
+*   [📍 Git Basics](./cheatsheets/git-basics.md) - Essential commands to get started.
+*   [🧠 Theoretical Notes](./notes/understanding-the-workflow.md) - Understanding the *why* behind the *what*.
+*   [📖 Glossary](./notes/glossary.md) - Git terminology explained in plain English.
+
+### 🔵 Level 2: Intermediate (The Collaborator)
+Master the art of working in teams and managing complex features.
+*   [🌿 Branching & Merging](./cheatsheets/branching-merging.md) - Master feature branches and conflict resolution.
+*   [🤝 Collaboration & GitHub](./cheatsheets/collaboration-github.md) - Remote repos, PRs, Forks, and SSH.
+*   [✨ Best Practices](./notes/best-practices.md) - Industry standards for professional developers.
+*   [🎯 Practice Exercises](./exercises/practice-scenarios.md) - Hands-on training to build muscle memory.
+
+### 🔴 Level 3: Master (The Expert)
+Power tools and advanced workflows for the ultimate Git experience.
+*   [🛠️ Troubleshooting](./cheatsheets/advanced-troubleshooting.md) - Fixing mistakes, Reflog, and Cherry-picking.
+*   [🚀 Mastering Git](./cheatsheets/mastering-git.md) - Rebase, Hooks, Submodules, and Bisect.
+*   [🤖 GitHub Actions](./cheatsheets/github-actions.md) - Automate tests, builds, and deployments.
+*   [⚡ Git Aliases](./cheatsheets/git-aliases.md) - Custom shortcuts for extreme productivity.
+*   [🌐 Open Source](./notes/open-source-contribution.md) - contributing to the community like a pro.
 
 ---
 
@@ -51,9 +61,11 @@ git push origin your-branch-name
 
 ---
 
-## 🚀 Getting Started
+## 🚀 How to Use This Repo
 
-If you are new here, start with the [Git Basics Cheat Sheet](./cheatsheets/git-basics.md) or check out our [Notes on the Git Workflow](./notes/understanding-the-workflow.md).
+1.  **Beginners:** Start with Level 1 and don't skip the "Theoretical Notes."
+2.  **Intermediates:** Focus on Level 2 to improve your team collaboration skills.
+3.  **Masters:** Deep dive into Level 3 to automate your workflow and handle disasters.
 
 ---
 
