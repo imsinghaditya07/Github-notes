@@ -53,5 +53,14 @@ If you are new here, start with the [Git Basics Cheat Sheet](./cheatsheets/git-b
 
 ---
 
+## 👨‍💻 Created & Maintained By
+
+This repository is curated and maintained by **Aditya Singh**. 
+
+- **GitHub:** [@imsinghaditya07](https://github.com/imsinghaditya07)
+- **Goal:** To provide a clear, professional, and real-world path for developers to master Git workflows.
+
+---
+
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
