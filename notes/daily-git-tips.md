@@ -30,3 +30,7 @@ git cherry-pick <commit>: Apply the changes introduced by some existing commit.
 ## 7. Undo Last Commit (Keep Changes)
 git reset --soft HEAD~1: Undoes the last commit but keeps changes staged.
 
+
+## 8. View Staged Changes
+git diff --staged: Show changes between the index and your last commit.
+
