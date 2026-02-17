@@ -22,3 +22,7 @@ git reflog: Shows a log of all reference updates (e.g., checkout, reset, commit)
 ## 5. Stash Changes
 git stash: Temporarily shelves (stashes) changes so you can work on something else.
 
+
+## 6. Apply Specific Commit
+git cherry-pick <commit>: Apply the changes introduced by some existing commit.
+
