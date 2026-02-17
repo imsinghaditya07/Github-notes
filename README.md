@@ -1,6 +1,6 @@
 # 🚀 GitFlow Pro: The Ultimate Master Guide & Cheat Sheet
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/github-notes/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/imsinghaditya07/github-notes/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Git Version](https://img.shields.io/badge/git-2.30%2B-orange.svg)](https://git-scm.com/)
 
