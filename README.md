@@ -58,6 +58,8 @@ If you are new here, start with the [Git Basics Cheat Sheet](./cheatsheets/git-b
 This repository is curated and maintained by **Aditya Singh**. 
 
 - **GitHub:** [@imsinghaditya07](https://github.com/imsinghaditya07)
+- **LinkedIn:** [Aditya Singh](https://www.linkedin.com/in/imsinghaditya07/)
+- **Email:** [imsinghaditya07@gmail.com](mailto:imsinghaditya07@gmail.com)
 - **Goal:** To provide a clear, professional, and real-world path for developers to master Git workflows.
 
 ---
