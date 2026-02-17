@@ -4,8 +4,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Git Version](https://img.shields.io/badge/git-2.30%2B-orange.svg)](https://git-scm.com/)
 
-> **"Master the flow, control the code."**
-> A curated, professional resource designed to take you from a Git beginner to a confident intermediate user with real-world workflows.
+> **"From First Commit to Master Architect."**
+> A curated, professional resource designed to guide you from foundational basics to expert-level Git mastery and professional workflows.
 
 ---
 
