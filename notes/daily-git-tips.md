@@ -26,3 +26,7 @@ git stash: Temporarily shelves (stashes) changes so you can work on something el
 ## 6. Apply Specific Commit
 git cherry-pick <commit>: Apply the changes introduced by some existing commit.
 
+
+## 7. Undo Last Commit (Keep Changes)
+git reset --soft HEAD~1: Undoes the last commit but keeps changes staged.
+
