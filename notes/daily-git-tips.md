@@ -14,3 +14,7 @@ git checkout -: Quickly switch back to the previous branch you were on.
 ## 3. Modify Last Commit
 git commit --amend: Add staged changes to the previous commit or edit its message.
 
+
+## 4. View Reference Log
+git reflog: Shows a log of all reference updates (e.g., checkout, reset, commit). Great for recovering lost commits.
+
