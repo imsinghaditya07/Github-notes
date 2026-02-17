@@ -18,3 +18,7 @@ git commit --amend: Add staged changes to the previous commit or edit its messag
 ## 4. View Reference Log
 git reflog: Shows a log of all reference updates (e.g., checkout, reset, commit). Great for recovering lost commits.
 
+
+## 5. Stash Changes
+git stash: Temporarily shelves (stashes) changes so you can work on something else.
+
