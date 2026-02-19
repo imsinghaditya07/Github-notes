@@ -45,4 +45,16 @@ Understanding the terminology is half the battle. This glossary defines the most
 *   **Git Hooks:** Scripts that Git executes before or after events like commit, push, and receive.
 
 ---
+---
+
+### 🛡️ & 🚀 Advanced GitHub Terms
+
+*   **Dependabot:** Automated tool that scans your dependency files and opens PRs to fix vulnerabilities.
+*   **CodeQL:** A semantic code analysis engine that finds vulnerabilities in your code (SQLi, XSS, etc.).
+*   **Secret Scanning:** Scans commits for accidental exposure of secrets (API keys, tokens).
+*   **Reusable Workflow:** A workflow (YAML) that can be called by other workflows to avoid code duplication.
+*   **Composite Action:** Bundles multiple steps into a single reusable action within the same job.
+*   **Concurrency:** A workflow setting that cancels previous runs of the same workflow on the same branch.
+
+---
 [⬅️ Back to Home](../README.md)
