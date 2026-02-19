@@ -62,4 +62,20 @@ Never commit:
 *   Build artifacts (`dist/`, `build/`).
 
 ---
+
+## 🛡️ 7. Security First
+Don't wait for a hack to care about security.
+*   **Enable Dependabot:** Let GitHub upgrade your libraries for you.
+*   **Push Protection:** Block secrets (API keys) from ever leaving your laptop.
+*   **Branch Protection:** Require reviews before merging to `main`.
+
+---
+
+## 🤖 8. Automate Everything
+If you do it twice, automate it.
+*   **CI/CD:** Use GitHub Actions to run tests on every push.
+*   **CLI:** Use `gh` for creating PRs and issues without context switching.
+*   **Templates:** Use Issue and PR templates to standardize contributions.
+
+---
 [⬅️ Back to Home](../README.md)
