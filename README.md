@@ -26,6 +26,9 @@ Master the art of working in teams and managing complex features.
 *   [🌿 Branching & Merging](./cheatsheets/branching-merging.md) - Master feature branches and conflict resolution.
 *   [🤝 Collaboration & GitHub](./cheatsheets/collaboration-github.md) - Remote repos, PRs, Forks, and SSH.
 *   [🌐 GitHub Pages](./notes/github-pages-deployment.md) - Host websites for free directly from repositories.
+*   [💬 Issues & Discussions](./notes/github-issues-discussions.md) - Collaborate via Issues, Discussions, and Templates.
+*   [🗃️ Git Stash](./cheatsheets/git-stash.md) - Save Work-In-Progress safely without committing.
+*   [🔍 Advanced GitHub Search](./notes/github-search-navigation.md) - Search for code, symbols, and navigate lightning fast.
 *   [✨ Best Practices](./notes/best-practices.md) - Industry standards for professional developers.
 *   [🎯 Practice Exercises](./exercises/practice-scenarios.md) - Hands-on training to build muscle memory.
 
@@ -35,6 +38,8 @@ Power tools and advanced workflows for the ultimate Git experience.
 *   [🚀 Mastering Git](./cheatsheets/mastering-git.md) - Rebase, Hooks, Submodules, and Bisect.
 *   [🤖 GitHub Actions](./cheatsheets/github-actions.md) - Automate tests, builds, and deployments.
 *   [☁️ GitHub Codespaces](./notes/github-codespaces.md) - Develop in the cloud with tailored devcontainers.
+*   [🐘 Git LFS](./cheatsheets/git-lfs.md) - Manage massive binary data files tracking.
+*   [🔔 Inbox Zero](./notes/github-notifications.md) - Manage your web notifications like a pro.
 *   [⚡ Git Aliases](./cheatsheets/git-aliases.md) - Custom shortcuts for extreme productivity.
 *   [🌐 Open Source](./notes/open-source-contribution.md) - contributing to the community like a pro.
 
