@@ -18,11 +18,14 @@ Essential resources for those just starting their Git journey.
 *   [📍 Git Basics](./cheatsheets/git-basics.md) - Essential commands to get started.
 *   [🧠 Theoretical Notes](./notes/understanding-the-workflow.md) - Understanding the *why* behind the *what*.
 *   [📖 Glossary](./notes/glossary.md) - Git terminology explained in plain English.
+*   [🎓 GitHub for Students](./notes/github-for-students.md) - The Student Developer Pack & Classroom guide.
+*   [📝 Markdown Mastery](./cheatsheets/markdown-mastery.md) - Writing beautiful READMEs and issues.
 
 ### 🔵 Level 2: Intermediate (The Collaborator)
 Master the art of working in teams and managing complex features.
 *   [🌿 Branching & Merging](./cheatsheets/branching-merging.md) - Master feature branches and conflict resolution.
 *   [🤝 Collaboration & GitHub](./cheatsheets/collaboration-github.md) - Remote repos, PRs, Forks, and SSH.
+*   [🌐 GitHub Pages](./notes/github-pages-deployment.md) - Host websites for free directly from repositories.
 *   [✨ Best Practices](./notes/best-practices.md) - Industry standards for professional developers.
 *   [🎯 Practice Exercises](./exercises/practice-scenarios.md) - Hands-on training to build muscle memory.
 
@@ -31,6 +34,7 @@ Power tools and advanced workflows for the ultimate Git experience.
 *   [🛠️ Troubleshooting](./cheatsheets/advanced-troubleshooting.md) - Fixing mistakes, Reflog, and Cherry-picking.
 *   [🚀 Mastering Git](./cheatsheets/mastering-git.md) - Rebase, Hooks, Submodules, and Bisect.
 *   [🤖 GitHub Actions](./cheatsheets/github-actions.md) - Automate tests, builds, and deployments.
+*   [☁️ GitHub Codespaces](./notes/github-codespaces.md) - Develop in the cloud with tailored devcontainers.
 *   [⚡ Git Aliases](./cheatsheets/git-aliases.md) - Custom shortcuts for extreme productivity.
 *   [🌐 Open Source](./notes/open-source-contribution.md) - contributing to the community like a pro.
 
