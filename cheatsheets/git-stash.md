@@ -49,6 +49,12 @@ git stash apply          # Applies the most recent stash (stash@{0})
 git stash apply stash@{1} # Applies a specific older stash
 ```
 
+### Creating a Branch from a Stash
+If the changes on your branch have drifted from your stash and using `git stash pop` would cause major conflicts, you can create a new branch from the stash using:
+```bash
+git stash branch <new-branch-name> stash@{1}
+```
+
 ---
 
 ## 🗑️ 3. Cleaning Up
