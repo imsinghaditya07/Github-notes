@@ -61,6 +61,12 @@ git commit -m "feat: descriptive message about your change"
 git push origin your-branch-name
 ```
 
+### Or using GitHub CLI (`gh`)
+```bash
+# create a PR immediately after pushing:
+gh pr create --title "feat: descriptive message" --body "Detailed explanation"
+```
+
 ---
 
 ## 🎯 Pro Tips for Professionalism
