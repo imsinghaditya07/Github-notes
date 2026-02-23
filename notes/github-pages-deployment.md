@@ -13,6 +13,7 @@ GitHub Pages is one of the most powerful features for front-end developers, stud
 - **URL Structure (User/Organization):** `https://<username>.github.io`
 - **URL Structure (Project Site):** `https://<username>.github.io/<repository-name>`
 - **Custom Domains:** It fully supports custom domains (e.g., `www.yourportfolio.com`).
+- **Jekyll Support:** GitHub Pages has built-in support for Jekyll, a popular static site generator.
 
 ---
 
