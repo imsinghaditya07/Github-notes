@@ -58,6 +58,12 @@ If you are looking for a function declaration or a class, use the `symbol:` qual
 *   `symbol:React.Fragment` - Finds where `React.Fragment` is officially defined.
 *   `/regular(.*)expressions?/` - GitHub code search supports **Regex**! Just wrap your search query in forward slashes `/`.
 
+### Exact Match Search
+If you want to search for an exact phrase, including special characters and spaces, enclose your query in double quotes.
+
+*   `"function doSomething()"` - Finds exact occurrences of this exact string.
+*   `"Hello, World!"` - Finds the exact greeting phrase.
+
 ---
 
 ## 💬 4. Searching Issues and Pull Requests
