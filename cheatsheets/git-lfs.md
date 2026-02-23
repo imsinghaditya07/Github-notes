@@ -84,3 +84,4 @@ git push origin main
 1. **GitHub Limits:** Every free GitHub account gets **1 GB of free LFS storage** and 1 GB of bandwidth per month. If you exceed this, you must buy a data pack.
 2. **Commit `.gitattributes` First:** A common mistake is committing the large file *before* configuring LFS. Always run `git lfs track` and commit `.gitattributes` alongside your large files.
 3. **Removing Accidentally Pushed Files:** If you accidentally committed a large file to standard Git instead of LFS, use the [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) to purge the large file from your history before trying to push again.
+4. **Migrating Existing Files:** If you need to migrate existing files to Git LFS, you can use the `git lfs migrate import --include="*.mp4"` command to convert files that were already committed into LFS pointers.
